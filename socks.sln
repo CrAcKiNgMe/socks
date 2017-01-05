@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sockserver", "socks\socks.vcxproj", "{98D83AA2-DE11-4DA7-BAC5-8E4850CDD3B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sockclient", "sockclient\sockclient.vcxproj", "{AEC21D09-7C35-4570-9927-FD2915A9F9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D83AA2-DE11-4DA7-BAC5-8E4850CDD3B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98D83AA2-DE11-4DA7-BAC5-8E4850CDD3B0}.Debug|Win32.Build.0 = Debug|Win32
+		{98D83AA2-DE11-4DA7-BAC5-8E4850CDD3B0}.Release|Win32.ActiveCfg = Release|Win32
+		{98D83AA2-DE11-4DA7-BAC5-8E4850CDD3B0}.Release|Win32.Build.0 = Release|Win32
+		{AEC21D09-7C35-4570-9927-FD2915A9F9AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEC21D09-7C35-4570-9927-FD2915A9F9AF}.Debug|Win32.Build.0 = Debug|Win32
+		{AEC21D09-7C35-4570-9927-FD2915A9F9AF}.Release|Win32.ActiveCfg = Release|Win32
+		{AEC21D09-7C35-4570-9927-FD2915A9F9AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
